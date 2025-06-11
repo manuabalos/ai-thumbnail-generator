@@ -28,4 +28,4 @@ python main.py
 
 ## Ejemplo de Miniatura Generada
 
-![Ejemplo de miniatura](img/ejemplo.png)
+![Ejemplo de miniatura](img/github-example.png)
